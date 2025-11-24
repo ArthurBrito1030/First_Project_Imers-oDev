@@ -1,0 +1,338 @@
+[
+  {
+    "nome": "Psicologia Financeira",
+    "descricao": "Um livro que explora como a psicologia influencia nossas decisões financeiras, ensinando lições atemporais sobre dinheiro, ganância e felicidade.",
+    "ano": 2020,
+    "link": "https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade/dp/6555111100/"
+  },
+  {
+    "nome": "Os segredos da mente milionária",
+    "descricao": "Aprenda a identificar e substituir seus padrões de pensamento sobre dinheiro para adotar a mentalidade de pessoas ricas e bem-sucedidas.",
+    "ano": 2005,
+    "link": "https://www.amazon.com.br/segredos-mente-milion%C3%A1ria-Harv-Eker/dp/8575422391/"
+  },
+  {
+    "nome": "Pai Rico, Pai Pobre",
+    "descricao": "Este livro ensina sobre educação financeira através de parábolas e derruba o mito de que você precisa ter uma renda alta para ficar rico.",
+    "ano": 1997,
+    "link": "https://www.amazon.com.br/Pai-Rico-Pobre-Robert-Kiyosaki/dp/8550801488"
+  },
+  {
+    "nome": "O Homem Mais Rico da Babilônia",
+    "descricao": "Com base nos segredos de sucesso dos antigos babilônios, este livro oferece lições atemporais sobre como economizar, investir e multiplicar seu dinheiro.",
+    "ano": 1926,
+    "link": "https://www.amazon.com.br/homem-mais-rico-Babil%C3%B4nia/dp/8595081530"
+  },
+  {
+    "nome": "Do Mil ao Milhão. Sem Cortar o Cafezinho.",
+    "descricao": "Thiago Nigro, o Primo Rico, ensina os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais.",
+    "ano": 2018,
+    "link": "https://www.amazon.com.br/Mil-Milh%C3%A3o-Sem-Cortar-Cafezinho/dp/8595083274"
+  },
+  {
+    "nome": "O poder do hábito",
+    "descricao": "Um livro que explora a ciência por trás da formação e mudança de hábitos, tanto na vida pessoal quanto nos negócios.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/Poder-do-H%C3%A1bito-Fazemos-Mudar/dp/8539004119"
+  },
+  {
+    "nome": "Atomic Habits (Hábitos Atômicos)",
+    "descricao": "Um guia prático e comprovado para construir bons hábitos, quebrar os maus e alcançar resultados notáveis através de melhorias incrementais (1% melhor a cada dia).",
+    "ano": "2018",
+    "link": "www.amazon.com.br/Hábitos-Atómicos-Atomic-Habits-Spanish/dp/6075694129/",
+    "tags": [
+      "Hábitos",
+      "Produtividade",
+      "Desenvolvimento Pessoal",
+      "Melhoria Contínua"
+    ]
+  },
+  {
+    "nome": "The Lean Startup (O Método Lean Startup)",
+    "descricao": "Como empreendedores usam a inovação contínua para criar negócios radicalmente bem-sucedidos, focando em ciclos de feedback Rápido (Construir-Medir-Aprender).",
+    "ano": "2011",
+    "link": "www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624/",
+    "tags": [
+      "Metodologias",
+      "Empreendedorismo",
+      "Inovação",
+      "Agilidade"
+    ]
+  },
+  {
+    "nome": "Good to Great (Empresas Feitas Para Vencer)",
+    "descricao": "Analisa o que diferencia empresas que fazem a transição de boas para ótimas e sustentam o sucesso ao longo do tempo, introduzindo conceitos como o 'Conceito do Ouriço'.",
+    "ano": "2001",
+    "link": "https://www.amazon.com.br/Good-Great-Companies-_Others-Dont_/dp/B0047T9BDW/",
+    "tags": [
+      "Liderança",
+      "Estratégia",
+      "Gestão",
+      "Excelência Empresarial"
+    ]
+  },
+  {
+    "nome": "Deep Work (Trabalho Focado)",
+    "descricao": "Regras para o sucesso focado em um mundo distraído, enfatizando a capacidade de se concentrar sem distração em uma tarefa cognitivamente exigente.",
+    "ano": "2016",
+    "link": "https://www.amazon.com.br/Deep-concentra%C3%A7%C3%A3o-m%C3%A1xima-mundo-distra%C3%A7%C3%B5es/dp/9896942404/",
+    "tags": [
+      "Produtividade",
+      "Habilidades",
+      "Foco",
+      "Gerenciamento de Tempo"
+    ]
+  },
+  {
+    "nome": "Thinking, Fast and Slow (Rápido e Devagar)",
+    "descricao": "Explora os dois sistemas que conduzem o pensamento e as decisões humanas (Sistema 1 e Sistema 2), abordando vieses cognitivos e falhas de julgamento.",
+    "ano": "2011",
+    "link": "https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/",
+    "tags": [
+      "Psicologia",
+      "Tomada de Decisão",
+      "Economia Comportamental",
+      "Cognição"
+    ]
+  },
+  {
+    "nome": "Creativity, Inc.",
+    "descricao": "A história da Pixar, oferecendo lições sobre como construir e sustentar uma cultura criativa de alto desempenho e inovação contínua.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Creativity-Inc-secrets-linspiration-fondateur/dp/2378151500/",
+    "tags": [
+      "Liderança",
+      "Cultura Organizacional",
+      "Criatividade",
+      "Inovação"
+    ]
+  },
+  {
+    "nome": "The 7 Habits of Highly Effective People (Os 7 Hábitos das Pessoas Altamente Eficazes)",
+    "descricao": "Um guia para a eficácia pessoal e profissional baseado em princípios, abrangendo desde a vitória privada até a vitória pública (interdependência).",
+    "ano": "1989",
+    "link": "https://www.amazon.com.br/Habits-Highly-Effective-People-Powerful/dp/1982137274/",
+    "tags": [
+      "Desenvolvimento Pessoal",
+      "Produtividade",
+      "Liderança",
+      "Hábitos"
+    ]
+  },
+  {
+    "nome": "Principles (Princípios)",
+    "descricao": "Lições de vida e trabalho de Ray Dalio, fundador da Bridgewater Associates, focadas em como tomar decisões racionais e criar culturas de meritocracia.",
+    "ano": "2017",
+    "link": "https://www.amazon.com.br/Princ%C3%ADpios-Ray-Dalio/dp/8551003429/",
+    "tags": [
+      "Gestão",
+      "Liderança",
+      "Tomada de Decisão",
+      "Governança"
+    ]
+  },
+  {
+    "nome": "Drive (Motivação 3.0)",
+    "descricao": "Examina a ciência da motivação humana, focando na importância de três elementos: autonomia, maestria e propósito, especialmente em trabalhos criativos.",
+    "ano": "2009",
+    "link": "https://www.amazon.com.br/Motiva%C3%A7%C3%A3o-3-0-Daniel-H-Pink/dp/8543107474/",
+    "tags": [
+      "Motivação",
+      "Gestão de Pessoas",
+      "Liderança",
+      "Psicologia"
+    ]
+  },
+  {
+    "nome": "Zero to One (De Zero a Um)",
+    "descricao": "Dicas sobre como construir empresas que criam coisas novas e o futuro da inovação tecnológica, enfatizando a importância de evitar a cópia e buscar o monopólio criativo.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Zero-One-Notes-Start-Future/dp/0753555204/",
+    "tags": [
+      "Empreendedorismo",
+      "Tecnologia",
+      "Inovação",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "The Subtle Art of Not Giving a F*ck (A Sutil Arte de Ligar o F*da-se)",
+    "descricao": "Uma abordagem contrária à autoajuda tradicional, focando em aceitar limitações e priorizar o que realmente importa para a felicidade e o sucesso sustentável.",
+    "ano": "2016",
+    "link": "https://www.amazon.com.br/Sutil-Arte-Ligar-Se/dp/855100249X/",
+    "tags": [
+      "Desenvolvimento Pessoal",
+      "Psicologia",
+      "Resiliência",
+      "Mindset"
+    ]
+  },
+  {
+    "nome": "High Output Management (Gestão de Alta Performance)",
+    "descricao": "O guia fundamental de Andy Grove (ex-CEO da Intel) para gerenciamento eficaz, essencial para líderes de equipes de engenharia e operações.",
+    "ano": "1983",
+    "link": "https://www.amazon.com.br/High-Output-Management-Andrew-Grove/dp/0679762884/",
+    "tags": [
+      "Gestão",
+      "Liderança",
+      "Produtividade",
+      "Operações"
+    ]
+  },
+  {
+    "nome": "Start With Why (Comece Pelo Porquê)",
+    "descricao": "Como grandes líderes e empresas inspiram ação, focando na importância de comunicar o propósito (o 'porquê') antes do 'o quê' ou 'como'.",
+    "ano": "2009",
+    "link": "https://www.amazon.com.br/Comece-pelo-porqu%C3%AA-grandes-inspiram/dp/854310663X/",
+    "tags": [
+      "Liderança",
+      "Branding",
+      "Cultura Organizacional",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "Radical Candor (Sinceridade Radical)",
+    "descricao": "Um guia para ser um líder que se importa pessoalmente e desafia diretamente, melhorando o feedback e a performance da equipe.",
+    "ano": "2017",
+    "link": "https://www.amazon.com.br/Radical-Candor-Kim-Scott/dp/1509845380/",
+    "tags": [
+      "Gestão de Pessoas",
+      "Feedback",
+      "Liderança",
+      "Comunicação"
+    ]
+  },
+  {
+    "nome": "The Phoenix Project (O Projeto Fênix)",
+    "descricao": "Um romance que explica a importância da TI, ensinando os princípios do DevOps e como transformar a tecnologia em uma vantagem competitiva.",
+    "ano": "2013",
+    "link": "https://www.amazon.com.br/Projeto-F%C3%AAnix-Comemorativa-Romance-Neg%C3%B3cio/dp/8550814067/",
+    "tags": [
+      "Metodologias",
+      "DevOps",
+      "TI",
+      "Otimização de Processos"
+    ]
+  },
+  {
+    "nome": "Predictably Irrational (Previsivelmente Irracional)",
+    "descricao": "Revela como emoções e fatores irracionais influenciam consistentemente nossas decisões financeiras e de consumo, desafiando a premissa da racionalidade econômica.",
+    "ano": "2008",
+    "link": "https://www.amazon.com.br/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/",
+    "tags": [
+      "Economia Comportamental",
+      "Psicologia",
+      "Finanças",
+      "Marketing"
+    ]
+  },
+  {
+    "nome": "Scrum: The Art of Doing Twice the Work in Half the Time (Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo)",
+    "descricao": "O guia original e prático sobre a metodologia Scrum, focando em como equipes podem se tornar mais ágeis, adaptáveis e produtivas.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Scrum-Doing-Twice-Work-Half/dp/038534645X/",
+    "tags": [
+      "Metodologias",
+      "Agilidade",
+      "Gestão de Projetos",
+      "Produtividade"
+    ]
+  },
+  {
+    "nome": "Never Split the Difference (Negocie como se sua vida dependesse disso)",
+    "descricao": "Táticas de negociação de alta pressão de um ex-negociador de reféns do FBI, aplicáveis a qualquer situação de negócios ou vida.",
+    "ano": "2016",
+    "link": "https://www.amazon.com.br/Negocie-como-vida-dependesse-disso/dp/8543108055/",
+    "tags": [
+      "Habilidades",
+      "Negociação",
+      "Comunicação",
+      "Liderança"
+    ]
+  },
+  {
+    "nome": "Hooked (Engajado): How to Build Habit-Forming Products",
+    "descricao": "Apresenta o modelo Hook (Gatilho, Ação, Recompensa Variável, Investimento) para criar produtos digitais envolventes que os usuários usam repetidamente.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Hooked-Engajado-Nir-Eyal/dp/8583394768/",
+    "tags": [
+      "Produto",
+      "UX/UI",
+      "Hábitos",
+      "Marketing Digital"
+    ]
+  },
+  {
+    "nome": "The Hard Thing About Hard Things (O Lado Difícil das Situações Difíceis)",
+    "descricao": "Conselhos pragmáticos sobre como construir e gerenciar startups quando não há respostas fáceis, focado em liderança em momentos de crise e guerra.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Hard-Thing-about-Things-Building/dp/0062273205/",
+    "tags": [
+      "Empreendedorismo",
+      "Liderança",
+      "Gestão de Crises",
+      "Startups"
+    ]
+  },
+  {
+    "nome": "The E-Myth Revisited (O Mito do Empreendedor)",
+    "descricao": "Por que a maioria das pequenas empresas não funciona e o que fazer a respeito, focando na importância de sistematizar e construir um negócio que não dependa do dono (O 'mito do empreendedor').",
+    "ano": "1995",
+    "link": "https://www.amazon.com.br/Myth-Revisited-Michael-Gerber/dp/0887307280/",
+    "tags": [
+      "Empreendedorismo",
+      "Sistematização",
+      "Processos",
+      "Gestão"
+    ]
+  },
+  {
+    "nome": "Algorithms to Live By (Algoritmos para Viver)",
+    "descricao": "Mostra como a ciência da computação e a lógica algorítmica podem nos ajudar a resolver problemas cotidianos, como gerenciamento de tempo, tomada de decisões e organização.",
+    "ano": "2016",
+    "link": "https://www.amazon.com.br/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/",
+    "tags": [
+      "Habilidades",
+      "Otimização",
+      "Tomada de Decisão",
+      "Ciência de Dados"
+    ]
+  },
+  {
+    "nome": "The Mythical Man-Month (O Mês do Homem-Mito)",
+    "descricao": "Um clássico sobre engenharia de software e gerenciamento de projetos complexos, famoso por defender que adicionar mais pessoas a um projeto atrasado o atrasa ainda mais.",
+    "ano": "1975",
+    "link": "https://www.amazon.com.br/M%C3%ADtico-Homem-m%C3%AAs-Ensaios-Engenharia-Software/dp/8550802530/",
+    "tags": [
+      "Gestão de Projetos",
+      "Engenharia de Software",
+      "Produtividade",
+      "Metodologias"
+    ]
+  },
+  {
+    "nome": "Measure What Matters (Avalie o Que Importa)",
+    "descricao": "Revela o sistema de OKRs (Objectives and Key Results), uma metodologia de definição de metas e gestão de desempenho usada por grandes empresas como o Google.",
+    "ano": "2017",
+    "link": "https://www.amazon.com.br/Avalie-que-Importa-Funda%C3%A7%C3%A3o-Sacudiram/dp/855080455X/",
+    "tags": [
+      "Gestão",
+      "Metodologias",
+      "OKR",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "Scaling Up (Acelerando)",
+    "descricao": "Um guia prático para crescer empresas rapidamente sem cair em desorganização, focado em quatro decisões cruciais: Pessoas, Estratégia, Execução e Dinheiro.",
+    "ano": "2014",
+    "link": "https://www.amazon.com.br/Scaling-Up-Escalando-seu-Neg%C3%B3cio/dp/8583394830/",
+    "tags": [
+      "Estratégia",
+      "Crescimento",
+      "Gestão",
+      "Liderança"
+    ]
+  }
+]

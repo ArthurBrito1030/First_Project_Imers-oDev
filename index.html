@@ -1,0 +1,48 @@
+<!DOCTYPE html> <!-- Define o tipo de documento como HTML5 -->
+<html lang="pt-br"> <!-- Elemento raiz do HTML, define o idioma da página como português do Brasil -->
+<head> <!-- Contêiner para metadados e links para recursos externos -->
+    <meta charset="UTF-8"> <!-- Define o conjunto de caracteres como UTF-8, para suportar acentos e caracteres especiais -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura a viewport para design responsivo, ajustando a largura ao dispositivo -->
+    <link rel="stylesheet" href="style.css"> <!-- Vincula o arquivo de folha de estilos CSS externo -->
+    <title>Lista de Livros Business</title> <!-- Define o título que aparece na aba do navegador -->
+</head>
+<body> <!-- Contém todo o conteúdo visível da página web -->
+    <header> <!-- Seção de cabeçalho da página -->
+        <h1>Lista de Livros Business</h1> <!-- Título principal da página -->
+        <div> <!-- Divisão ou contêiner para agrupar o campo de busca e o botão --> 
+            <input type="text" placeholder="Digite o nome do livro" id="campo-busca"> 
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button> 
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- <article class="card">
+                <h2>Psicologia Financeira</h2>
+                <p>2021</p>
+                <p>Piscologia Financeira é um livro que molda sua visão sobre o dinheiro </p>
+                <a href="https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade/dp/6555111100/">Acesse aqui</a>
+            </article> -->
+
+            <!-- <article class="card">
+                <h2>Os segredos da mente milionária</h2>
+                <p>2005</p>
+                <p>Os segredos da mente milionária ensina novos hábitos</p>
+                <a href="https://www.amazon.com.br/segredos-mente-milion%C3%A1ria-Harv-Eker/dp/8575422391/" target="_blank">Acesse aqui</a>
+            </article> -->
+        </section>
+    </main> <!-- Seção principal do conteúdo da página, onde os artigos serão exibidos -->
+
+    <footer class="footer"> <!-- Seção de rodapé da página, com a classe "footer" para estilização -->
+        <ul class="footer-links"> <!-- Lista não ordenada para os links do rodapé, com a classe "footer-links" -->
+            <li> <!-- Item da lista -->
+                <a href="https://github.com/ArthurBrito1030">Github</a> <!-- Link para o perfil do Github -->
+            </li>
+            <li> <!-- Item da lista -->
+                <a href="https://www.alura.com.br/">Alura</a> <!-- Link para o site da Alura -->
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html> <!-- Fim do documento HTML -->
